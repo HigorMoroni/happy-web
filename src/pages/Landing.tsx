@@ -2,7 +2,7 @@ import React from 'react';
 import { FiArrowRight } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
-import '../styles/pages/landing.css';
+import '../styles/pages/landing.scss';
 
 import logoimg from '../images/logo.svg';
 
