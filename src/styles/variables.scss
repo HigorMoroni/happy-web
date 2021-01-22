@@ -1,8 +1,22 @@
 // Colors
-$white: #fff;
+$white: white;
+$opaqueWhite: rgba(255, 255, 255, 0.8);
+$inputBackground: #f5f8fa;
+$activeButtonBackground: #edfff6;
 $mainBackground: #ebf2f5;
-$enterButton: #ffd666;
+$layoutBorders: #d3e2e5;
+$labelText: #8fa7b3;
+$inputText: #5c8599;
 $hoverEnterButton: #96feff;
-$plusButton: #15c3d6;
-$hoverPlusButton:  #17d6eb;
-$mainGradient: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+$backButton: #12afcB;
+$iconLink: #15c3d6;
+$hoverButtons:  #17d6eb;
+$mainGradient: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+$popupText: #0089a5;
+$uploadBorder: #96d2f0;
+$popupLinkShadow: 17.2868px 27.6589px 41.4884px rgba(23, 142, 166, 0.16);
+$activeButtonBorder: #a1e9c5;
+$confirmButton: #3cdc8c;
+$hoverConfirmButton: #36cf82;
+$activeButtonText: #37c77f;
+$enterButton: #ffd666;

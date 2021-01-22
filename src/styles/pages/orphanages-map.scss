@@ -79,13 +79,13 @@
     bottom: 40px;
     width: 64px;
     height: 64px;
-    background: $plusButton;
+    background: $iconLink;
     border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: background-color 0.2s;
 
-    &:hover { background-color: $hoverPlusButton }
+    &:hover { background-color: $hoverButtons }
   }
 }
